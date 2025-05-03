@@ -1,0 +1,12 @@
+body {
+    text-align: center;
+    margin: auto;
+    padding-top: 2rem;
+}
+#mybutton {
+    font-size: 3em;
+    cursor: pointer;
+}
+.mylabels {
+    font-size: 3em;
+}
